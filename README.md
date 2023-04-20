@@ -27,7 +27,7 @@ Em breve
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="Python" />
+        <img src=".\img\python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -77,9 +77,9 @@ Em breve
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="SQL" />
+        <img src="#" width="48" height="48" alt="MySQL" />
       </a>
-      <br>SQL
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#">
