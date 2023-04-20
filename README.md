@@ -118,7 +118,7 @@ Sejam bem-vindos!
 
   <a align="center" href="https://github.com/Gui-Sousa-D-Cruz/python" title="Python"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-Sousa-D-Cruz&repo=python&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="center" href="https://github.com/Gui-Sousa-D-Cruz/projeto-RPG" title="Projeto RPG"><img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-Sousa-D-Cruz&repo=projeto-RPG&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/Gui-Sousa-D-Cruz/projeto-RPG" title="Projeto RPG"><img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-Sousa-D-Cruz&repo=projeto-RPG&theme=react&border_color=61dafb&border_radius=10"></a>
 
   <a align="center" href="https://github.com/Gui-Sousa-D-Cruz/html-css" title="HTML-CSS"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-Sousa-D-Cruz&repo=html-css&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
