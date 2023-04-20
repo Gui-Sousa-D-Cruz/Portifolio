@@ -33,25 +33,25 @@ Em breve
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="JS" />
+        <img src=".\img\javascript.svg" width="48" height="48" alt="JS" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="HTML5" />
+        <img src=".\img\html-5.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="CSS3" />
+        <img src=".\img\css-3.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="WP" />
+        <img src=".\img\wordpress.svg" width="48" height="48" alt="WP" />
       </a>
       <br>WordPress
     </td>
@@ -59,31 +59,31 @@ Em breve
   <tr>
   <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="GIT" />
+        <img src=".\img\git.svg" width="48" height="48" alt="GIT" />
       </a>
       <br>GIT
     </td>
   <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="Postman" />
+        <img src=".\img\postman.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="VSCode" />
+        <img src=".\img\vscode.svg" width="48" height="48" alt="VSCode" />
       </a>
       <br>VSCode
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="MySQL" />
+        <img src=".\img\mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="Xampp" />
+        <img src=".\img\xampp.svg" width="48" height="48" alt="Xampp" />
       </a>
       <br>Xampp
     </td>
