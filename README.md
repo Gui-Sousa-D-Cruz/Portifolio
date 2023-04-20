@@ -27,15 +27,53 @@ Em breve
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="#" width="48" height="48" alt="Python" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="#" width="48" height="48" alt="Javascript" />
       </a>
-      <br>Python
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="#" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="#" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="#" />
+      </a>
+      <br>GIT
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="#" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="#" />
+      </a>
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="#" />
+      </a>
+      <br>SQL
     </td>
   </tr>
 
