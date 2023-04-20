@@ -14,7 +14,7 @@
   <br>
   📚 No momento, estou me aprofundando em Python
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Caso queria me perguntar algo: <a href="https://github.com/Gui-Sousa-D-Cruz/Portifolio/issues" title="Issues">Clique aqui</a>
   <br>
   📫 Como entrar em contato: <a href="mailto: gui.sdacruz6@gmail.com">gui.sdacruz6@gmail.com</a>
 </p>
