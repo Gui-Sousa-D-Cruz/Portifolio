@@ -1,7 +1,7 @@
 <!--<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">-->
 
 <h1 align="center">
-<img src=".\img\technology.jpg"alt="#" />
+Sejam bem-vindos!
 </h1>
 
 <br>
