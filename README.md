@@ -23,7 +23,7 @@ Em breve
 <h2 align="center">🔥 Linguagens & Frameworks & Ferramentas & Habilidades 🔥</h2>
 <br>
 <p align="center">
-  <table>
+  <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#">
