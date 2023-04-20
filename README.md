@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">-->
 
 <h1 align="center">
- 
+Em breve
 </h1>
 
 <br>
@@ -46,8 +46,7 @@
     </a>
   </div>
   <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 </p>
 
 <hr>
