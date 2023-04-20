@@ -127,7 +127,7 @@ Em breve
 <br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Veja mais 🔍</a>
+  <a href="https://github.com/Gui-Sousa-D-Cruz?tab=repositories" title="Show Repositories">🔎 Veja mais 🔍</a>
 </h4>
 
 
