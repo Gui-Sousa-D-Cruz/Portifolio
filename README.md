@@ -33,48 +33,61 @@ Em breve
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="Javascript" />
+        <img src="#" width="48" height="48" alt="JS" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="#" />
+        <img src="#" width="48" height="48" alt="HTML5" />
       </a>
-      <br>HTML
+      <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="#" />
+        <img src="#" width="48" height="48" alt="CSS3" />
       </a>
-      <br>CSS
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="#" />
+        <img src="#" width="48" height="48" alt="WP" />
       </a>
-      <br>GIT
+      <br>WordPress
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="#" />
+        <img src="#" width="48" height="48" alt="GIT" />
+      </a>
+      <br>GIT
+    </td>
+  <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="#" />
+        <img src="#" width="48" height="48" alt="VSCode" />
       </a>
       <br>VSCode
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="#" width="48" height="48" alt="#" />
+        <img src="#" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="#" width="48" height="48" alt="Xampp" />
+      </a>
+      <br>Xampp
+    </td>
+    
   </tr>
 
 </table>
