@@ -39,9 +39,9 @@ Em breve
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Gui-Sousa-D-Cruz&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
 
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Gui-Sousa-D-Cruzr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
 
 </p>
 
