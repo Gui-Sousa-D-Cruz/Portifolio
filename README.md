@@ -41,7 +41,7 @@ Em breve
 
   ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Gui_Sousa_D_Cruz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   </div>
-  <br><br><br><br><br><br>
+  <br><br>
 
 </p>
 
