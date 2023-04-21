@@ -1,7 +1,7 @@
 <!--<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">-->
 
 <h1 align="center">
-<img align="center" src="apresentação.gif">
+<img align="center" src=".\img\apresentação.gif">
 </h1>
 
 <br>
